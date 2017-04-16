@@ -1,3 +1,4 @@
+// dont hurt me
 var data = {
     "priorities": [
       {"Author 1": "Sachio Uemoto", "Start Year": "1968", "Volume": "11", "Author 3": "", "Author 2": "", "Issues": "10", "End Year": "1968", "Japanese Name": "\u304f\u3058\u3089\u5927\u543e", "English Name": "Kujira Daigo", "Decade": "1960"},
